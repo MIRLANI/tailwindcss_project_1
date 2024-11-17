@@ -1,0 +1,8 @@
+adapun link yang ada pada project
+1. gambar yaitu: "https://placehold.co/100
+    tinggal sesuaikan saja dengan ukuran gambarnya
+    dengan cara ganti angkanya
+
+2. icon 
+    a. https://cdnjs.com/libraries/font-awesome cantumkan dengan link cdn 
+    b. https://fontawesome.com/ digunakan untuk mencari icon yang sesuai dengan project yang dimiliki
